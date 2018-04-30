@@ -1,4 +1,4 @@
-# Exploring-Gun-Deaths-in-the-US
+# Exploring Gun Deaths in the US
 
 
 Hello! Thank you for checking out my project.
